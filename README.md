@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------
-<p align="center"><img width="40%" src="" /></p>
+<p align="center"><img width="40%" src="https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/blob/main/Logo.jpg" /></p>
 
 -------------------------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------------------------
 
 ## Courses
-1. [Build Basic Generative Adversarial Networks (GANs)]()
+1. [Build Basic Generative Adversarial Networks (GANs)](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course1)
 2. [Build Better Generative Adversarial Networks (GANs)]()
 3. Apply Generative Adversarial Networks (GANs)
 
