@@ -10,7 +10,7 @@
 
 ## Courses
 1. [Build Basic Generative Adversarial Networks (GANs)](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course1)
-2. [Build Better Generative Adversarial Networks (GANs)]()
+2. [Build Better Generative Adversarial Networks (GANs)](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course2)
 3. Apply Generative Adversarial Networks (GANs)
 
 -------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-* [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/home/welcome)
+* [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
 * [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
 * [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 
