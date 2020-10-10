@@ -16,7 +16,8 @@
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
-* [Generative Adversarial Networks (GANs) Specialization]()
+* [Build Basic Generative Adversarial Networks (GANs)]()
+* [Build Better Generative Adversarial Networks (GANs)]()
 
 --------------------------------------------------------------------------------------------------------------
 
