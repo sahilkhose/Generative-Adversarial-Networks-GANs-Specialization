@@ -18,14 +18,18 @@
 	2. Controllable Generation
 
 ### [2 - Build Better Generative Adversarial Networks (GANs)](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course2)
+1. Week 1 - [Fréchet Inception Distance](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course2/week1)
+2. Week 2 - [Bias](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course2/week2)
+3. Week 3 - [Components of StyleGAN](https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/tree/main/course2/week3)
+
 ### 3 - Apply Generative Adversarial Networks (GANs)
-_(course not released yet)_
+ _(course not released yet)_
 
 -------------------------------------------------------------------------------------------------------------
 
-## Certificate
-* [Build Basic Generative Adversarial Networks (GANs)]()
-<!-- * [Build Better Generative Adversarial Networks (GANs)]() -->
+## Certificates
+* [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/V2ZSYS2FQYK8)
+* [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/873JRHKP6WVJ)
 
 --------------------------------------------------------------------------------------------------------------
 
